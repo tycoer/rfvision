@@ -1,0 +1,6 @@
+mmdet
+mmcv-full
+mmdet3d # source installation recommended
+mmsegmentation
+
+h5py
